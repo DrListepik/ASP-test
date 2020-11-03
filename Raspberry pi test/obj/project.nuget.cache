@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bgj+Kcu2Rwr8m5WrUmmgEGU5fzhXbCW3O8c+NPlRd56GFUI6hcz9pIneTsFZ9k+f8x8xhVRWhXMkucbeBOrcHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niels\\source\\repos\\ASP-test\\Raspberry pi test\\Raspberry pi test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niels\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

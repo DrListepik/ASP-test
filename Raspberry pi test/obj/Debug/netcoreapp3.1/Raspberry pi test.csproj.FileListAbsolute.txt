@@ -1,0 +1,27 @@
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\bin\Debug\netcoreapp3.1\Raspberry pi test.deps.json
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\bin\Debug\netcoreapp3.1\Raspberry pi test.runtimeconfig.json
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\bin\Debug\netcoreapp3.1\Raspberry pi test.runtimeconfig.dev.json
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\bin\Debug\netcoreapp3.1\Raspberry pi test.dll
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Raspberry pi test.csprojAssemblyReference.cache
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Raspberry pi test.RazorAssemblyInfo.cache
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Raspberry pi test.RazorAssemblyInfo.cs
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Raspberry pi test.AssemblyInfoInputs.cache
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Raspberry pi test.AssemblyInfo.cs
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Raspberry pi test.TagHelpers.input.cache
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Raspberry pi test.TagHelpers.output.cache
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Raspberry pi test.RazorCoreGenerate.cache
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Raspberry pi test.RazorTargetAssemblyInfo.cache
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Raspberry pi test.RazorTargetAssemblyInfo.cs
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\staticwebassets\Raspberry pi test.StaticWebAssets.Manifest.cache
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\staticwebassets\Raspberry pi test.StaticWebAssets.xml
+C:\Users\niels\source\repos\ASP-test\Raspberry pi test\obj\Debug\netcoreapp3.1\Raspberry pi test.genruntimeconfig.cache
